@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Victor Nunes and I'm a full stack developer. I'm from Brazil, and currently looking a job. You can know more about me visiting my website www.victornunesc.com.br
+My name is Victor Nunes and I'm a full stack developer. You can know more about me visiting my website www.victornunesc.com.br
 
 ## 🔧 Skills 
 
